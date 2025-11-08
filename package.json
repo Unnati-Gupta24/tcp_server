@@ -1,0 +1,23 @@
+{
+  "name": "tcp-chat-server",
+  "version": "1.0.0",
+  "description": "A simple TCP chat server built with Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "node tests/test-client.js"
+  },
+  "keywords": [
+    "tcp",
+    "chat",
+    "server",
+    "socket",
+    "real-time"
+  ],
+  "author": "Unnati",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
