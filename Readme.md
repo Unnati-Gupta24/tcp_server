@@ -138,7 +138,7 @@ Client → ChatServer → ClientManager → Broadcast to all
 
 ## 🎬 Screen Recording
 
-**📹 Video Demo:** []
+**📹 Video Demo:** [https://drive.google.com/file/d/1LKb5cGBunvvlVS7somQmCgoWTokcr40o/view?usp=drivesdk]
 
 ### What to Show (1-2 minutes):
 1. Start server: `node src/index.js`
